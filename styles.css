@@ -6,9 +6,9 @@ body {
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #1c461e;
     padding: 20px;
-    color: white;
+    color: rgb(253, 253, 253);
     text-align: center;
 }
 
@@ -36,7 +36,7 @@ section {
     margin: 20px;
     background-color: white;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(4, 177, 33, 0.938);
     transition: transform 0.3s ease;
 }
 
